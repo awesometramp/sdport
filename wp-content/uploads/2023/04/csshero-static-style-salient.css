@@ -1,3 +1,4 @@
 .comic-anime .parallaxImg-shadow {background-image: url("https://images.unsplash.com/photo-1681679382768-18765bd24cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMDIwMXwwfDF8c2VhcmNofDJ8fHNreXxlbnwwfHwyfHwxNjgxNzM1MDQy&ixlib=rb-4.0.3&q=80&w=200");}
 #parallaxImg__8 .bg-overlay {background-image: url("https://awesometramp.github.io/sdport/wp-content/uploads/2023/04/gif-comicfixed-AdobeCreativeClou.gif");}
 #parallaxImg__9 .bg-overlay {background-image: url("https://awesometramp.github.io/sdport/wp-content/uploads/2023/04/Webp.net-gifmaker.gif");}
+@media screen and (max-width: 375px) {#parallaxImg__0 .bg-overlay {background-color: rgba(0,0,0,.5);}}
